@@ -1,1 +1,1 @@
-# Strategic-Merger-Analysis
+This project focuses on analyzing Lio, a telecommunications provider, and Jotstar, a streaming platform, to gain insights into their individual performance. Key areas of evaluation include content consumption patterns, subscriber growth, inactivity behavior, and trends in service upgrades and downgrades. By examining these factors, we aim to assess the strategic compatibility of both platforms for a potential merger.
